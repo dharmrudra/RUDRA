@@ -18,3 +18,7 @@ resource "azurerm_resource_group" "rgs87h" {
    name     = "sikanderhd67g8"
   location = "westus"
 }
+resource "azurerm_resource_group" "rgs87hd" {
+   name     = "sikanderhd67gs8"
+  location = "westus"
+}
